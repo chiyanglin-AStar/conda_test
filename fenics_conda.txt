@@ -1,0 +1,2 @@
+!conda create -n fenics-env -c conda-forge fenics matplotlib
+!conda activate fenics-env
