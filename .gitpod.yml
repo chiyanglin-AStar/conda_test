@@ -1,3 +1,4 @@
+# from https://github.com/conda/conda/blob/main/.gitpod.yml
 image: ghcr.io/conda/conda-ci:main-linux-python3.9
 tasks:
   - name: initialize
