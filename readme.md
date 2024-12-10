@@ -21,6 +21,12 @@ ref from [URL](https://anaconda.org/conda-forge/fenics-dolfin)
     !sudo apt-get update -qq
     !sudo apt install -y --no-install-recommends fenics
 
-    or 
+*or* 
 
     sudo apt install python3-dolfinx-complex
+
+
+*or*
+
+    sudo apt install -y --no-install-recommends fenics
+
